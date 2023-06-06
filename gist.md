@@ -6,7 +6,7 @@ Brief Regex description and is basic components of what a Regex (regular express
 
 A regular expression for a Password that will contain at least one uppercase letter, lowercase letter, digit and special symbol.
 
-- Matching a password validation: `/(?=._\d)(?=._[a-z])(?=._[A-Z])(?!._\s)(?=._[!@#$_])/`
+- Matching a password validation: `/(?=._\d)(?=._[a-z])(?=._[A-Z])(?!._\s)(?=._[!@#$_])/g`
 
 ## Table of Contents
 
