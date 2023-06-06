@@ -120,7 +120,7 @@ Example in code:
 ## Author
 
 - Wyatt Howlett
-  Link to Github Gist:
+  Link to Github Gist: https://gist.github.com/Whowlett13/7459ff36c423d8e5afb94634f8f048ab
 
 ---
 
